@@ -1,7 +1,7 @@
 # Job Match API
 
 A small, rule-based, fully explainable job recommendation API built for the
-Lernern SDE-1 take-home assignment. It scores jobs for a candidate on
+Job Match. It scores jobs for a candidate on
 **skills, experience, location, and salary**, with must-have skills acting as a
 hard filter.
 
